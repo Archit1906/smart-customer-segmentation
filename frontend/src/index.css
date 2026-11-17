@@ -1,0 +1,4 @@
+@import "tailwindcss";
+body{background:#070b17;color:#e2e8f0;font-family:Inter,system-ui,sans-serif;
+background-image:linear-gradient(rgba(34,211,238,.04) 1px,transparent 1px),linear-gradient(90deg,rgba(34,211,238,.04) 1px,transparent 1px);background-size:36px 36px}
+select,input{color-scheme:dark}
